@@ -1,0 +1,53 @@
+body{
+    background-color: #E3CAA5;
+}
+.header{
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color:#967E76;
+  }
+  .usr{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+  }
+  .title{
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+   
+  }
+
+  .redes{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 25px;
+  }
+  .search{
+    font-family: cursive;
+    font-size: 17px;
+  }
+  .search input{
+    width: 250px;
+  }
+  .navbar{
+    justify-content: center;
+    padding-left: 119px;
+    padding-right: 119px;
+    font-size: 17px;
+    font-weight: bold;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+  }
+  .navbar li{
+    letter-spacing: 0.15em;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .car{
+    margin-right: 0px;
+  }
